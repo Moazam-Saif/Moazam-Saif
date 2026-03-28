@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Moazam.
-I'm currently in my 4th semester of Software Engineering at NUST, specializing in Web Development.
+I'm currently in my 6th semester of Software Engineering at NUST, specializing in Web Development.
 
 
 # 💫 About Me:
