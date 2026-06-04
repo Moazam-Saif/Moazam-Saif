@@ -1,9 +1,9 @@
-## Hi there 👋, I'm Moazam.
-I'm currently in my 6th semester of Software Engineering at NUST, specializing in Web Development.
-
-
-# 💫 About Me:
-🌱 I’m currently learning Next JS, Type Script, Web Automation, Framer<br>👯 I’m looking to collaborate on Web Development Projects<br>💬 Ask me about anything related to MERN Stack<br>📫 Reach me at: saifmoazam9@gmail.com
+🎓 I'm currently in my 6th semester of Software Engineering at NUST
+🤖 Exploring AI systems, automation, and scalable backend architectures
+🌱 Currently learning Next.js, TypeScript, Web Automation, and Agentic AI workflows
+👯 Open to collaborating on AI, automation, and software engineering projects
+💬 Ask me about Python, AI integrations, backend development, Docker, or system design
+📫 Reach me at: saifmoazam9@gmail.com
 
 
 ## 🌐 Socials:
