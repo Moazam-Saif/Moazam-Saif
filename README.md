@@ -1,9 +1,12 @@
-🎓 I'm currently in my 6th semester of Software Engineering at NUST
-🤖 Exploring AI systems, automation, and scalable backend architectures
-🌱 Currently learning Next.js, TypeScript, Web Automation, and Agentic AI workflows
-👯 Open to collaborating on AI, automation, and software engineering projects
-💬 Ask me about Python, AI integrations, backend development, Docker, or system design
-📫 Reach me at: saifmoazam9@gmail.com
+## 💫 About Me
+
+🎓 I'm currently in my 6th semester of Software Engineering at NUST  
+🤖 Interested in AI systems, automation, backend engineering, and scalable software architecture  
+🌱 Currently learning Next.js, TypeScript, Web Automation, and Agentic AI workflows  
+🚀 Building AI-powered applications, automation systems, and production-ready software  
+👯 Open to collaborating on AI, automation, and software engineering projects  
+💬 Ask me about Python, AI integrations, Docker, backend development, or system design  
+📫 Reach me at: **saifmoazam9@gmail.com**
 
 
 ## 🌐 Socials:
